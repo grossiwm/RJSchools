@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gabrielrossi/Desktop/trabalhoProg/main.c
+stdio.h
+-
+tab_csv.h
+/Users/gabrielrossi/Desktop/trabalhoProg/tab_csv.h
+
+/Users/gabrielrossi/Desktop/trabalhoProg/tab_csv.h
+

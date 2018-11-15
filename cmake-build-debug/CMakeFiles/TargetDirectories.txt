@@ -1,0 +1,3 @@
+/Users/gabrielrossi/Desktop/trabalhoProg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gabrielrossi/Desktop/trabalhoProg/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gabrielrossi/Desktop/trabalhoProg/cmake-build-debug/CMakeFiles/trabalhoProg.dir
