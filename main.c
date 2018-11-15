@@ -3,9 +3,6 @@
 
 int main() {
 
-    tab_csv_t um;
-
-
     printf("Hello, World!\n");
     return 0;
 
