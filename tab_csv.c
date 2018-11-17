@@ -3,7 +3,7 @@
 #define MAX_STRING_SIZE 100
 #define MAX_VALUES 1000
 
-char string_t[MAX_STRING_SIZE];
+typedef char string_t[MAX_STRING_SIZE];
 
 struct lista_atributos{
     string_t * atribs;
