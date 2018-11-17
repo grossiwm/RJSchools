@@ -1,13 +1,13 @@
 #ifndef TCSV_H
 #define TCSV_H
 
-#define MAX_STRING_SIZE 100
+#define MAX_STRING_SIZE 10000
 #define MAX_VALUES 1000
 
 
 typedef char string_t[MAX_STRING_SIZE];
 
-typedef struct lista_atributos lista_atributos_t;
+//typedef struct lista_atributos lista_atributos_t;
 
 typedef struct registro registro_t;
 
