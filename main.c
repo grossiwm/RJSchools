@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-//#include "tab_csv.h"
+#include "tab_csv.h"
 
 // lÍ o cabeÁalho contendo 3 caracteres do arquivo .csv
 void le_cabecalho(FILE * f, char cabecalho[4]){
@@ -13,7 +13,7 @@ void le_cabecalho(FILE * f, char cabecalho[4]){
 
 int main() {
 
-    printf("Hello, World!\n");
+//    printf("Hello, World!\n");
     
 
     FILE * csvf = fopen("Escolas_Municipais.csv", "r");

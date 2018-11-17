@@ -5,7 +5,7 @@
 #define MAX_VALUES 1000
 
 
-typedef char string string_t[MAX_STRING_SIZE];
+typedef char[MAX_STRING_SIZE] string string_t;
 
 typedef struct lista_atributos lista_atributos_t;
 
