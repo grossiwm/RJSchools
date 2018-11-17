@@ -3,7 +3,6 @@
 #include <string.h>
 #include "tab_csv.h"
 
-// lÍ o cabeÁalho contendo 3 caracteres do arquivo .csv
 void le_cabecalho(FILE * f, char cabecalho[4]){
     cabecalho[0] = fgetc(f);
     cabecalho[1] = fgetc(f);
@@ -27,7 +26,7 @@ int main() {
 
     char cabecalho[4];
 
-    le_cabecalho(csvf, cabecalho);
+    le_cabecalho(csvf,cabecalho);
 
     printf("\n%lu\n",strlen(cabecalho));
 
