@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include "tab_csv.h"
+#include "functions_csv.h"
 
 void le_cabecalho(FILE * f, char cabecalho[4]){
     cabecalho[0] = fgetc(f);
@@ -18,6 +19,10 @@ void imprime_atribs(string_t * atribs){
     }
     printf("\n");
 }
+
+typedef struct lista_atributos{
+    string_t * atribs;
+}lista_atributos_t;
 
 char linha[1000];
 

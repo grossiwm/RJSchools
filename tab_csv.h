@@ -4,12 +4,12 @@
 #define MAX_STRING_SIZE 100
 #define MAX_VALUES 1000
 
-#include "tab_csv.c"
+// #include "tab_csv.c"
 
 
 typedef char string_t[MAX_STRING_SIZE];
 
-typedef struct lista_atributos lista_atributos_t;
+// typedef struct lista_atributos lista_atributos_t;
 
 typedef struct registro registro_t;
 
