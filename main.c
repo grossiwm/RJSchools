@@ -11,11 +11,6 @@ void le_cabecalho(FILE * f, char cabecalho[4]){
 }
 
 
-
-typedef struct lista_atributos{
-    string_t * atribs;
-}lista_atributos_t;
-
 void imprime_atribs(string_t * atribs){
     printf("\n");
     for (int i = 0; i < 30; i++){       

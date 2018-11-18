@@ -5,9 +5,9 @@
 
 typedef char string_t[MAX_STRING_SIZE];
 
-// struct lista_atributos{
-//     string_t * atribs;
-// };
+struct lista_atributos{
+    string_t * atribs;
+};
 
 struct registro{
     string_t * valores;
