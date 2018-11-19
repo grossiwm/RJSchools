@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/RJscholls2.dir/main.c.o CMakeFiles/RJscholls2.dir/tab_csv.c.o CMakeFiles/RJscholls2.dir/functions.c.o  -o RJscholls2 

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gabrielrossi/Desktop/RJscholls2/functions.c
+project_includes.h
+/Users/gabrielrossi/Desktop/RJscholls2/project_includes.h
+tab_csv.h
+/Users/gabrielrossi/Desktop/RJscholls2/tab_csv.h
+tab_csv.c
+/Users/gabrielrossi/Desktop/RJscholls2/tab_csv.c
+
+/Users/gabrielrossi/Desktop/RJscholls2/functions.h
+tab_csv.h
+/Users/gabrielrossi/Desktop/RJscholls2/tab_csv.h
+project_includes.h
+/Users/gabrielrossi/Desktop/RJscholls2/project_includes.h
+
+/Users/gabrielrossi/Desktop/RJscholls2/main.c
+tab_csv.h
+/Users/gabrielrossi/Desktop/RJscholls2/tab_csv.h
+tab_csv.c
+/Users/gabrielrossi/Desktop/RJscholls2/tab_csv.c
+project_includes.h
+/Users/gabrielrossi/Desktop/RJscholls2/project_includes.h
+functions.h
+/Users/gabrielrossi/Desktop/RJscholls2/functions.h
+
+/Users/gabrielrossi/Desktop/RJscholls2/project_includes.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/Users/gabrielrossi/Desktop/RJscholls2/tab_csv.c
+tab_csv.h
+/Users/gabrielrossi/Desktop/RJscholls2/tab_csv.h
+
+/Users/gabrielrossi/Desktop/RJscholls2/tab_csv.h
+

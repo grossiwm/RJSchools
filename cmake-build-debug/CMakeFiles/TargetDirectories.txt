@@ -1,0 +1,3 @@
+/Users/gabrielrossi/Desktop/RJscholls2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gabrielrossi/Desktop/RJscholls2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gabrielrossi/Desktop/RJscholls2/cmake-build-debug/CMakeFiles/RJscholls2.dir
